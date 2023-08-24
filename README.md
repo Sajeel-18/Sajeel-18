@@ -24,8 +24,10 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sajeelali2x"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sajeelali2x" /></a></p><br><br>
 
+<p align="left"></p>
+
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sajeel-18&show_icons=true&locale=en&layout=compact" alt="sajeel-18" /></p> -->
 
-<p>&nbsp;<img style="text-align:left;"  src="https://github-readme-stats.vercel.app/api?username=sajeel-18&show_icons=true&locale=en" alt="sajeel-18" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sajeel-18&show_icons=true&locale=en" alt="sajeel-18" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sajeel-18&" alt="sajeel-18" /></p>
